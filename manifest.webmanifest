@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "EntreHoras — Rotina de medicamentos",
+  "short_name": "EntreHoras",
+  "description": "Organize sua rotina e acompanhe os medicamentos conforme sua prescrição.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f8f3",
+  "theme_color": "#27654e",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
